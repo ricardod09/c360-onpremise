@@ -3,7 +3,7 @@ $( document ).ready(function() {
         $("#ejecutar").click( function(){
 
             var xhttp = new XMLHttpRequest();
-            xhttp.open("GET", "http://127.0.0.1:5984/libros/_design/testlibros/_view/consultaautores?group=true&reduce=true", false);
+            xhttp.open("GET", "http://127.0.0.1:5984/libros/_design/testlibros/_view/consultaidiomas?group=true&reduce=true", false);
             xhttp.setRequestHeader("Content-type", "application/json");
             xhttp.send();
             var response = JSON.parse(xhttp.responseText);
