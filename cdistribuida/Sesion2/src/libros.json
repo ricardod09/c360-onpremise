@@ -2,6 +2,7 @@
   "autor": "J.K Rowling",
   "titulo": "Harry Potter y el principe mestizo",
   "anio": 2000,
+  "fecha_publicacion":"2000-01-19",
   "isbn": "123123123",
   "idiomas": [
     "ingles",
@@ -13,6 +14,7 @@
   "autor": "J.K Rowling",
   "titulo": "Harry Potter y la orden del Fenix",
   "anio": 2001,
+  "fecha_publicacion":"2001-02-15",
   "isbn": "234243",
   "idiomas": [
     "español"
@@ -23,6 +25,7 @@
   "autor": "Diego Montufar",
   "titulo": "Big Data y Data Analytics",
   "anio": 1999,
+  "fecha_publicacion":"1999-05-12",
   "idiomas": [
     "español"
   ]
@@ -31,6 +34,7 @@
 {
   "autor": "Juan Perez",
   "titulo": "Big Data",
+  "fecha_publicacion":"2000-06-13",
   "anio": 2000,
   "idiomas": [
     "ingles"
